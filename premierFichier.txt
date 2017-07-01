@@ -1,5 +1,7 @@
-un essai de git 
+un second essai de git 
 
 de la part
 
 Jean-marc et Fabrice
+
+avec quelques ajouts
