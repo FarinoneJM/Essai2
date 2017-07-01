@@ -4,4 +4,5 @@ de la part
 
 Jean-marc et Fabrice
 
-avec quelques ajouts
+
+en enlevant la phrase "avec quelques ajouts"
